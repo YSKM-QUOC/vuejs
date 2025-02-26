@@ -16,7 +16,7 @@ const listString = 'a,b,c,d,e,f,g,h,i,j'
 const convertToId = (data) => data.split(',').reverse().join('-')
 
 const attributeName = 'href'
-const url = 'google.com'
+const url = 'https://www.google.com/'
 </script>
 
 <template>
