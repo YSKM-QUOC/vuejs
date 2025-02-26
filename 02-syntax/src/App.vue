@@ -16,7 +16,7 @@ const listString = 'a,b,c,d,e,f,g,h,i,j'
 const convertToId = (data) => data.split(',').reverse().join('-')
 
 const attributeName = 'href'
-const url = 'http://kungfutech.edu.vn'
+const url = 'google.com'
 </script>
 
 <template>
